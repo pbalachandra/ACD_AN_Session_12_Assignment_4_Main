@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">List Activity - List Fragment</string>
+    <string name="description"> Description</string>
+    
+    <string-array name="titles">
+        <item>Blogger</item>
+        <item>Chrome</item>
+        <item>Google</item>
+        <item>Youtube</item>
+    </string-array>
+    
+    <array name="logos">
+        <item>@drawable/blogger</item>
+        <item>@drawable/chrome</item>
+        <item>@drawable/google</item>
+        <item>@drawable/youtube</item>
+    </array>
+</resources>
